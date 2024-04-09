@@ -1,4 +1,6 @@
-Unless otherwise noted, this website is licensed under the Decolonial Media License 0.1
+Unless otherwise noted, this repository is licensed under the Decolonial Media License 0.1.
+
+And by otherwise noted, I'd like to note the image of Blitzwing is a screenshot from the Transformers Animated episode "Mission Accomplished" and is used under fair use.
 
 # Decolonial Media License 0.1
 
