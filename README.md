@@ -1,3 +1,4 @@
+![Screenshot of Transformers Animated Blitzwing typing](https://github.com/gigirassy/Nunes-Firefox-Configuration/blob/main/typetypetype.png)
 ## Behold, my configuration for browsing in Firefox!
 
 I use a configuration focusing on privacy, and extensions that make the internet suck a little less. I take inspiration from [TheFrenchGhosty's LibreWolf configuration](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration) and some personal research of mine.
