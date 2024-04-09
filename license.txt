@@ -1,0 +1,35 @@
+Unless otherwise noted, this website is licensed under the Decolonial Media License 0.1
+
+# Decolonial Media License 0.1
+
+You may redistribute and/or modify the work released to you under the terms of this license, in whole or in part, under the terms of either this same license or a later version thereof, the Free Art License 1.3, GNU Free Documentation License 1.3, or Creative Commons Attribution-ShareAlike 4.0 International License.
+
+## What does this mean?
+You are free to:
+* Use — to make any use of this work, which includes (if relevant) performing it
+* Study — to examine this work as well as how it was made, and apply knowledge gained from it
+* Share — to distribute, copy, and transmit this work, in whole or in part Adapt — to remix, transform, and build upon this work and share the changed versions of it
+
+## Under these conditions:
+* Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or compatible license to this one.
+* Attribution — You must attribute this work with a link (but not in any way that suggests endorsement of you or your use of the work)
+
+## Why?
+
+We recognize that private ownership over media, ideas, and technology is rooted in European conceptions of property and the history of colonialism from which they formed. These systems of privatization and monopolization, namely copyright and patent law, enforce the systems of punishment and reward which benefit a privileged minority at the cost of others’ creative expression, political discourse, and cultural survival. The private and public institutions, legal frameworks, and social values which uphold these systems are inseparable from broader forms of oppression. Indigenous people, people of color, queer people, trans people, and women are particularly exploited for their creative and cultural resources while hardly receiving any of the personal gains or legal protections for their work.
+
+We also recognize that the public domain has jointly functioned to compliment the private, as works in the public domain may be appropriated for use in proprietary works. Therefore, we use copyleft not only to circumvent the monopoly granted by copyright, but also to protect against that appropriation.
+
+## Integrity and credit
+
+All of the licenses we use prevent derivative works from implying endorsement to protect against misrepresentation. They also all require attribution to the original publication of the work and clear indication that changes have been made. If you see someone appropriating our work with improperly implied endorsement or without proper attribution, please let us know.
+
+## Commercial use
+
+Counter-intuitively, preventing commercial use retains a commercial monopoly on all rights associated with a work. The misleading name confuses many non-commercial projects into thinking this is an appropriate license, but permitting commercial use rejects those monopoly rights while copyleft protects it from being appropriated into a private work.
+
+## Cultural appropriation
+
+Adopting ideas, artifacts, practices, and other elements from marginalized cultures is a colonialist practice by which the cultural resources of indigenous people and people of color have been made readily available for consumption by others. In doing so, these elements are stripped of their cultural roots and reduced to consumable commodities exchanged between and benefiting their appropriators. What is perceived as innovative as adopted by others is seen as inferior in their original context. Globalized cultural and intellectual property systems have little potential to protect against or redress cultural appropriation because they were created specifically to allow and reward it. While rejecting private ownership over ideas, media, and technology does not necessarily inhibit cultural appropriation, doing so challenges the means to monopolize the products of appropriated resources. 
+
+Copyleft © 2003-2017 Free Culture Foundation. 
