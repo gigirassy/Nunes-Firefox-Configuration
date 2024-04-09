@@ -4,6 +4,9 @@
 I use a configuration focusing on privacy, and extensions that make the internet suck a little less. I take inspiration from [TheFrenchGhosty's LibreWolf configuration](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration) and some personal research of mine.
 
 This is definitely not suited for everyone's needs and is not the most private configuration out there, but it's nice for me.
+
+No software outside of Firefox itself, along with an internet connection, is required to complete this configuration.
+
 ## Extensions
 ### Privacy extensions
 * [ClearURLs](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration): Removes tracking from URLs.
@@ -42,13 +45,14 @@ discord.com/*
 ### Functionality
 * [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/): for user styles.
 * [Colab Automatic Clicker](https://addons.mozilla.org/en-US/firefox/addon/colab-automatic-clicker/): Because I use Whisper-AI a lot.
+* [Simple Translate](https://addons.mozilla.org/firefox/addon/simple-translate/): Not to be confused with the frontend SimplyTranslate. I use this extension to quickly translate non-English text with a right click. It uses Google's or DeepL's API (depending on which one you choose in settings), but doesn't keep your data.
 
 ## Extra stuff I did
-* Modified about:config to allow custom search engines, and set my default to SearX. (specifically, the searx.pro instance)
-* Since my CTRL key has been a bit funky lately, I edited my toolbar to have a screenshot button.
+* Modified about:config to allow custom search engines, set my default to SearX, and removed everything else. (specifically, the searx.pro instance)
+* Since my CTRL key has been a bit funky lately, I edited my toolbar to have a screenshot button. This doesn't require an extension and can be done through the Customize Toolbar feature you can access with a right click.
 * Disabled the ADs and Pocket on the Firefox front page because what the hell.
 ### AdNauseam configuration
-AdNauseam is a fork of UBlock with an easier to access strict block feature. These are the lists I have enabled from settings, rules, and some of the sites I strict-blocked:
+AdNauseam is a fork of uBlock with an easier to access "strict block" feature. Strict block doesn't prevent you from viewing sites, it's advanced adblocking. These are the lists I have enabled from settings, rules, and some of the sites I strict-blocked:
 #### Strict-blocked sites
 ```
 annas-archive.org
