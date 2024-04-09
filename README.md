@@ -1,10 +1,10 @@
 ![Screenshot of Transformers Animated Blitzwing typing](https://github.com/gigirassy/Nunes-Firefox-Configuration/blob/main/typetypetype.png)
-## Behold, my configuration for browsing in Firefox!
+# Behold, my configuration for browsing in Firefox!
 
 I use a configuration focusing on privacy, and extensions that make the internet suck a little less. I take inspiration from [TheFrenchGhosty's LibreWolf configuration](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration) and some personal research of mine.
 
 This is definitely not suited for everyone's needs and is not the most private configuration out there, but it's nice for me.
-
+## Extensions
 ### Privacy extensions
 * [ClearURLs](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration): Removes tracking from URLs.
 * [LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/): FANDOM, Reuters, Reddit, Youtube, Quora, Search (I use SearX), Genius, and Medium frontends enabled.
@@ -17,7 +17,7 @@ This is definitely not suited for everyone's needs and is not the most private c
 ### Extensions that make the internet suck a bit less for everyone
 * [Snowflake by Tor](https://snowflake.torproject.org/): Uses some funky trickery to help people access websites in censored countries using your connection at no cost or risk to you. I help 3 people a day on average.
 * [AdNauseam](https://github.com/dhowe/AdNauseam/): Extension that uses autoclicking ADs in the background to waste corporations' money, fight surviellence, and as a side effect, support the websites you frequently browse.
-* [Wayback Machine Extension](https://archive.org/): I set up Wayback Machine's extension to save any public website I browse using its blacklist feature. It autosaves if a site hasn't been preserved in 7 days. Here's my configuration for blacklisted sites.
+* [Wayback Machine Extension](https://archive.org/): I set up Wayback Machine's extension to save any public website I browse. It autosaves if a site hasn't been preserved in 7 days. Here's my configuration for sites that won't save.
 ```
 archive.org*
 web.archive.org*
@@ -39,11 +39,43 @@ discord.com/*
 *nitter*
 ```
 
-## Functionality
-* Stylus: for user styles.
-* Colab Auto Clicker: Because I use Whisper-AI a lot.
+### Functionality
+* [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/): for user styles.
+* [Colab Automatic Clicker](https://addons.mozilla.org/en-US/firefox/addon/colab-automatic-clicker/): Because I use Whisper-AI a lot.
 
 ## Extra stuff I did
 * Modified about:config to allow custom search engines, and set my default to SearX. (specifically, the searx.pro instance)
 * Since my CTRL key has been a bit funky lately, I edited my toolbar to have a screenshot button.
 * Disabled the ADs and Pocket on the Firefox front page because what the hell.
+### AdNauseam configuration
+AdNauseam is a fork of UBlock with an easier to access strict block feature. These are the lists I have enabled from settings, rules, and some of the sites I strict-blocked:
+#### Strict-blocked sites
+```
+annas-archive.org
+bulbapedia.bulbagarden.net
+facebook.com
+knowyourmeme.com
+libgen.li
+mangareader.to
+open.spotify.com
+pastebin.com
+www.animelyrics.com
+www.cnn.com
+www.instagram.com
+www.opensubtitles.org
+www.similarweb.com
+www.thedailybeast.com
+```
+#### Filter lists (all available from AdNauseam settings) and rules
+* Settings enabled: Auto-update filter lists, suspend network activity until all filter lists are loaded, parse and enforce cosmetic filters.
+* Check "Ublock Filters"
+* Enable EasyList under ADs section
+* Enable EasyPrivacy from Privacy section
+* Enable Online Malicious URL Blocklist from Malware Section
+* Enable AdGuard Popup Overlays and Social Media filters from Annoyances section, and then Fanboy - Anti-Facebook and uBlock Filters - Annoyances.
+* LocalCDN rules that pop up and are asked to be added to uBlock once the extension is installed.
+
+## Other stuff
+* I use the default dark Firefox theme.
+* I utilize this bookmarklet to bypass Paywalls when all else fails (Unfortunately, guy who makes this site is not the greatest person in the world):
+``javascript:void(location.href='https://1ft.io/proxy?q='+location.href);``
